@@ -25,7 +25,7 @@
 
 ## 🔗 LinkedIn Statistics
 
-[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-iostanay-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/iostanay)
+[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-tanay-bhattacharjee-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/iostanay)
 
 <!-- END_SECTION:linkedin_statistics -->
 
