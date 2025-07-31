@@ -23,11 +23,22 @@
 
 <!-- START_SECTION:linkedin_statistics -->
 
+## 🔗 LinkedIn Statistics
+
+[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-iostanay-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/iostanay)
+
 <!-- END_SECTION:linkedin_statistics -->
 
 <!-- START_SECTION:github_stats -->
 
+## 🧾 GitHub Statistics
+
+![Tanay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanaybhattacharjee&show_icons=true&theme=radical)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanaybhattacharjee&layout=compact&theme=radical)
+
 <!-- END_SECTION:github_stats -->
+
 
 ---
 
