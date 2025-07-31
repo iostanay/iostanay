@@ -33,9 +33,9 @@
 
 ## 🧾 GitHub Statistics
 
-![Tanay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanaybhattacharjee&show_icons=true&theme=radical)
+![Tanay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iostanay&show_icons=true&theme=radical)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanaybhattacharjee&layout=compact&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iostanay&layout=compact&theme=radical)
 
 <!-- END_SECTION:github_stats -->
 
