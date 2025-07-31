@@ -1,26 +1,63 @@
 # 👋 Hi, I'm Tanay Bhattacharjee
 
-## 🚀 iOS Developer | AI Enthusiast | Full-Stack Engineer
-
-With over **10 years of experience**, I specialize in building scalable, intuitive, and intelligent software.  
-I enjoy solving complex problems through elegant code and leveraging AI to build next-gen applications.
-
-### 💼 Tech Stack
-- **Mobile Development**: Swift, SwiftUI, Objective-C, Core Data, Combine
-- **Backend Development**: Python, Flask, MySQL
-- **AI/ML**: Generative AI, LangChain, OpenAI API, LLM-based tools
-
-### 🧠 Currently Exploring
-- AI-driven iOS apps and personal agent systems  
-- SwiftUI-based macOS applications  
-- Automation workflows using Python + AI  
-
-### 📫 Let's Connect
-- **Email**: [bhattacharjee18@gmail.com](mailto:bhattacharjee18@gmail.com)  
-- **LinkedIn**: [tanay-bhattacharjee](https://www.linkedin.com/in/tanay-bhattacharjee/)  
-- **Portfolio Website**: *Coming Soon* 🚧
+**🚀 iOS Developer • AI Enthusiast • Full‑Stack Engineer**  
+**🔧 10+ Years** of experience building scalable, intuitive, and intelligent software solutions  
+💡 I solve complex problems through elegant code and smart AI integrations
 
 ---
 
-> *“Build clean. Think AI-first. Keep shipping.”*
+## 💼 Tech Stack
 
+![Swift Badge](https://img.shields.io/badge/Swift‑5‑orange?logo=swift)  
+![SwiftUI Badge](https://img.shields.io/badge/SwiftUI‑Framework‑teal?logo=swift)  
+![Objective‑C Badge](https://img.shields.io/badge/Objective--C‑legacy‑blue?logo=apple)  
+![Python Badge](https://img.shields.io/badge/Python‑3‑blue?logo=python)  
+![Flask Badge](https://img.shields.io/badge/Flask‑micro‑grey?logo=flask)  
+![MySQL Badge](https://img.shields.io/badge/MySQL‑Database‑blue?logo=mysql)  
+![OpenAI Badge](https://img.shields.io/badge/OpenAI‑API‑purple?logo=openai)  
+![LangChain Badge](https://img.shields.io/badge/LangChain‑LLM‑red?logo=langchain)
+
+---
+
+## 📈 GitHub Stats
+
+<!-- START_SECTION:linkedin_statistics -->
+
+<!-- END_SECTION:linkedin_statistics -->
+
+<!-- START_SECTION:github_stats -->
+
+<!-- END_SECTION:github_stats -->
+
+---
+
+## 🎯 Currently Exploring
+
+- 🚀 AI‑powered iOS apps with integrated LLMs  
+- 💻 SwiftUI‑based macOS tools and agents  
+- 🤖 Python + AI workflows via LangChain  
+- 🧩 Building multi‑modal apps (text, image, voice interfaces)
+
+---
+
+## 🌐 Connect with Me
+
+| Platform     | Link                                            |
+|--------------|-------------------------------------------------|
+| 💼 Email     | [bhattacharjee18@gmail.com](mailto:bhattacharjee18@gmail.com) |
+| 🔗 LinkedIn  | [tanay‑bhattacharjee](https://www.linkedin.com/in/tanay-bhattacharjee) |
+| 🐙 GitHub    | [@tanaybh](https://github.com/tanaybh)         |
+| 🌱 Portfolio | Coming soon – stay tuned!                       |
+
+---
+
+## 🤝 Open to Collaborate
+
+Feel free to reach out if you're working on:
+- Next‑gen iOS/macOS applications
+- AI & LLM‑based tools and agents
+- Freelance projects, mentoring, tech writing
+
+Let’s build something amazing together ✨
+
+---
